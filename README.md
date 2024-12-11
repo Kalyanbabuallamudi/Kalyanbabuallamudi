@@ -42,4 +42,3 @@ I'm a **Fullstack Developer** and **AI Enthusiast** with a passion for creating 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalyanbabuallamudi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
