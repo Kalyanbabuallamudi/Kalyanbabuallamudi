@@ -16,7 +16,8 @@ I'm a **Fullstack Developer** and **AI Enthusiast** with a passion for creating 
 ---
 
 ## 📈 GitHub Stats & Streaks
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&theme=radical&hide=prs&count_private=true&langs_count=5)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kalyanbabuallamudi&theme=radical)
 
 ---
