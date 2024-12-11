@@ -10,13 +10,36 @@ I'm a **Fullstack Developer** and **AI Enthusiast** with a passion for creating 
 
 ---
 
+## 🏆 GitHub Profile Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kalyanbabuallamudi&theme=gruvbox&margin-w=15&row=1&column=6)
+
+---
+
+## 📈 GitHub Stats & Streaks
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kalyanbabuallamudi&theme=radical)
+
+---
+
 ## 🚀 Technologies Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyanbabuallamudi&layout=compact&theme=radical)
 
 ---
 
-## 🌱 Proficient In
-- **<span style="color:#2C3E50; font-family: 'Arial', sans-serif;">MERN Stack Development</span>** (MongoDB, Express, React, Node.js)
-- **<span style="color:#E67E22; font-family: 'Arial', sans-serif;">Cloud Technologies</span>** with GCP
+## 🛠️ Skills
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
+
+## 🌱 Proficient In
+- **MERN Stack Development** (MongoDB, Express, React, Node.js)
+- **Cloud Technologies** with GCP
+
+---
+
+## 📊 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalyanbabuallamudi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
