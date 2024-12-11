@@ -10,16 +10,7 @@ I'm a **Fullstack Developer** and **AI Enthusiast** with a passion for creating 
 
 ---
 
-## 🏆 GitHub Profile Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kalyanbabuallamudi&theme=gruvbox&margin-w=15&row=1&column=6)
 
----
-
-## 📈 GitHub Stats & Streaks
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&theme=radical&hide=prs&count_private=true&langs_count=5&hide_title=true)
-
-
----
 
 ## 🚀 Technologies Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyanbabuallamudi&layout=compact&theme=radical)
@@ -38,7 +29,3 @@ I'm a **Fullstack Developer** and **AI Enthusiast** with a passion for creating 
 
 ---
 
-## 📊 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalyanbabuallamudi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
