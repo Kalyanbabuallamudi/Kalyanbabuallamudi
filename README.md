@@ -51,14 +51,35 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 
 ---
 
+## 📈 GitHub Stats
 
-## 🎯 Fun Fact
+![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-- I believe **AI and Machine Learning** will revolutionize the future of technology, and I'm passionate about staying at the forefront of this innovation. I work on both **front-end** and **back-end** technologies to create full-stack solutions.
-- Always learning and exploring new frameworks, tools, and techniques.
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalyanbabuallamudi&theme=radical)
 
 ---
 
-## 📚 Let's Collaborate
+## 📊 Contributions
 
-I'm open to **collaborations**, **open-source contributions**, and **tech discussions**. Feel free to reach out through any of my links above!
+### 🎨 Animated Contributions Box
+
+```html
+<div style="position: relative; width: 100%; height: 300px; overflow: hidden; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="animation: slideIn 2s ease-in-out infinite;">
+    ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Kalyanbabuallamudi&bg_color=ffffff&color=8D3C1B&line=8D3C1B&point=8D3C1B&area=true&area_color=FFDDC1)
+  </div>
+</div>
+
+<style>
+@keyframes slideIn {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(0); }
+}
+</style>
+---
+🎯 Fun Fact
+I believe AI and Machine Learning will revolutionize the future of technology, and I'm passionate about staying at the forefront of this innovation. I work on both front-end and back-end technologies to create full-stack solutions.
+Always learning and exploring new frameworks, tools, and techniques.
+📚 Let's Collaborate
+I'm open to collaborations, open-source contributions, and tech discussions. Feel free to reach out through any of my social media links above!
