@@ -1,39 +1,40 @@
 # Hi, I'm Kalyan Babu Allamudi 👋
 
-I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cutting-edge web applications. I thrive on leveraging modern technologies, including the **Google Cloud Platform (GCP)**, to create scalable and efficient solutions.
+I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cutting-edge web applications. I thrive on leveraging modern technologies, including **Google Cloud Platform (GCP)**, to create scalable and efficient solutions.
 
 ---
 
 ## 🚀 Let's Connect!
-- **[LinkedIn](https://www.linkedin.com/in/kalyanbabu-allamudi)**
-  ![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
-- **[Portfolio](https://kalyanbabu.vercel.app/)**
-  ![Portfolio](https://img.shields.io/badge/-View%20Portfolio-ff6f61?style=flat&logo=google-chrome&logoColor=white)
+- **[LinkedIn](https://www.linkedin.com/in/kalyanbabu-allamudi)**  
+  ![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
+- **[Portfolio](https://kalyanbabu.vercel.app/)**  
+  ![View Portfolio](https://img.shields.io/badge/-View%20Portfolio-ff6f61?style=flat&logo=google-chrome&logoColor=white)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
+### 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyanbabuallamudi&layout=compact&theme=radical)
 
-**Languages & Frameworks:**
+### 🌐 Languages & Frameworks:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-**Development Tools:**
+### 🧰 Development Tools:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Web Development:**
+### 🌐 Web Development:
 - ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**AI & Cloud:**
+### 🤖 AI & Cloud:
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 - ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -53,6 +54,9 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 ## 📈 GitHub Stats
 
 ![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalyanbabuallamudi&theme=radical)
 
 ---
 
