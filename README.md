@@ -51,21 +51,6 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 
 ---
 
-## 📈 GitHub Stats
-![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalyanbabuallamudi&theme=radical)
-
----
-
-## 📊 Contributions
-
-### 🎨 Contributions Box
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Kalyanbabuallamudi&bg_color=ffffff&color=8D3C1B&line=8D3C1B&point=8D3C1B&area=true&area_color=FFDDC1)
-
----
-
 🎯 Fun Fact  
 I believe AI and Machine Learning will revolutionize the future of technology, and I'm passionate about staying at the forefront of this innovation. I work on both front-end and back-end technologies to create full-stack solutions.
 
