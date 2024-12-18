@@ -55,4 +55,4 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 I believe AI and Machine Learning will revolutionize the future of technology, and I'm passionate about staying at the forefront of this innovation. I work on both front-end and back-end technologies to create full-stack solutions.
 
 📚 Let's Collaborate  
-I'm open to collaborations, open-source contributions, and tech discussions. Feel free to reach out through any of my social media links above!
+I'm open to collaborations, open-source contributions, and tech discussions. Feel free to reach out through any of my links above!
