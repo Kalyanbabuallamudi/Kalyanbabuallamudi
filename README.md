@@ -6,9 +6,9 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 
 ## 🚀 Let's Connect!
 - **[LinkedIn](https://www.linkedin.com/in/kalyanbabu-allamudi)**
-  <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  ![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
 - **[Portfolio](https://kalyanbabu.vercel.app/)**
-  <img src="https://img.shields.io/badge/-View%20Portfolio-ff6f61?style=flat&logo=google-chrome&logoColor=white" />
+  ![Portfolio](https://img.shields.io/badge/-View%20Portfolio-ff6f61?style=flat&logo=google-chrome&logoColor=white)
 
 ---
 
