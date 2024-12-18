@@ -51,14 +51,6 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 
 ---
 
-## 📈 GitHub Stats
-
-![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalyanbabuallamudi&theme=radical)
-
----
 
 ## 🎯 Fun Fact
 
