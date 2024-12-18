@@ -2,17 +2,13 @@
 
 I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cutting-edge web applications. I thrive on leveraging modern technologies, including **Google Cloud Platform (GCP)**, to create scalable and efficient solutions.
 
-> *Let the text appear with a fade-in animation when scrolled into view.*
-
 ---
 
 ## 🚀 Let's Connect!  
-<div style="animation: fadeIn 2s ease-out;">
 - **[LinkedIn](https://www.linkedin.com/in/kalyanbabu-allamudi)**  
   ![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
 - **[Portfolio](https://kalyanbabu.vercel.app/)**  
   ![View Portfolio](https://img.shields.io/badge/-View%20Portfolio-ff6f61?style=flat&logo=google-chrome&logoColor=white)
-</div>
 
 ---
 
@@ -22,12 +18,10 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyanbabuallamudi&layout=compact&theme=radical)
 
 ### 🌐 Languages & Frameworks:  
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="transition: transform 0.3s;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="transition: transform 0.3s;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="transition: transform 0.3s;">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="transition: transform 0.3s;">
-</div>
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ### 🧰 Development Tools:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,51 +52,22 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 ---
 
 ## 📈 GitHub Stats
-<div style="animation: slideUp 2s ease-out;">
-  ![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&count_private=true&hide=prs&theme=radical)
-</div>
+![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyanbabuallamudi&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### 🔥 Streak Stats
-<div style="animation: slideUp 2s ease-out;">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalyanbabuallamudi&theme=radical)
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalyanbabuallamudi&theme=radical)
 
 ---
 
 ## 📊 Contributions
 
-### 🎨 Animated Contributions Box
-<div style="position: relative; width: 100%; height: 300px; overflow: hidden; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <div style="animation: slideIn 2s ease-in-out infinite;">
-    ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Kalyanbabuallamudi&bg_color=ffffff&color=8D3C1B&line=8D3C1B&point=8D3C1B&area=true&area_color=FFDDC1)
-  </div>
-</div>
-
-<style>
-@keyframes slideIn {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(0); }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes slideUp {
-  from { transform: translateY(50px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-</style>
+### 🎨 Contributions Box
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Kalyanbabuallamudi&bg_color=ffffff&color=8D3C1B&line=8D3C1B&point=8D3C1B&area=true&area_color=FFDDC1)
 
 ---
 
 🎯 Fun Fact  
-<div style="animation: fadeIn 2s ease-out;">
 I believe AI and Machine Learning will revolutionize the future of technology, and I'm passionate about staying at the forefront of this innovation. I work on both front-end and back-end technologies to create full-stack solutions.
-</div>
 
 📚 Let's Collaborate  
-<div style="animation: fadeIn 2s ease-out;">
-I'm open to collaborations, open-source contributions, and tech discussions. Feel free to reach out through any of links above!
-</div>
+I'm open to collaborations, open-source contributions, and tech discussions. Feel free to reach out through any of my links above!
