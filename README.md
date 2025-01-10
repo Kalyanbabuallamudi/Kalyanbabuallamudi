@@ -12,6 +12,16 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 
 ---
 
+## 🌟 GitHub Streaks & Badges
+
+### 🔥 Monthly Streak Stats  
+![Kalyan's GitHub Streak](https://streak-stats.demolab.com/?user=Kalyanbabuallamudi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+### 🏆 GitHub Achievements  
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Kalyanbabuallamudi&theme=radical&row=1&column=6)
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Top Languages  
@@ -41,9 +51,7 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 - ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-![Kalyan's GitHub Streak](https://streak-stats.demolab.com/?user=Kalyanbabuallamudi)
 
----
 ## 🌱 Proficient In
 
 - **MERN Stack Development** (MongoDB, Express, React, Node.js)
