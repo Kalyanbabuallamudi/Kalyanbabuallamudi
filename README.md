@@ -41,7 +41,9 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 - ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
+![Kalyan's GitHub Streak](https://streak-stats.demolab.com/?user=Kalyanbabuallamudi)
 
+---
 ## 🌱 Proficient In
 
 - **MERN Stack Development** (MongoDB, Express, React, Node.js)
