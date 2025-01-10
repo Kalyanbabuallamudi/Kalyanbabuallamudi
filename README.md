@@ -15,7 +15,8 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 ## 🌟 GitHub Streaks & Badges
 
 ### 🔥 Monthly Streak Stats  
-![Kalyan's GitHub Streak](https://streak-stats.demolab.com/?user=Kalyanbabuallamudi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![Kalyan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalyanbabuallamudi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ### 🏆 GitHub Achievements  
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Kalyanbabuallamudi&theme=radical&row=1&column=6)
