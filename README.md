@@ -13,10 +13,14 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 ---
 
 ## 🌟 GitHub Streaks 🔥 
+# My GitHub Profile
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kalyanbabuallamudi&theme=dark)](https://git.io/streak-stats)
 
+## Achievements
 
+![Achievement1](https://github.com/Kalyanbabuallamudi/<achievement-badge-link>)
+![Achievement2](https://github.com/Kalyanbabuallamudi/<achievement-badge-link>)
 
 ---
 
