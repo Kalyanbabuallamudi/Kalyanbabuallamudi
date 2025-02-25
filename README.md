@@ -1,4 +1,4 @@
-# Hi, I'm Kalyan Babu Allamudi 👋
+# Hi, I'm Kalyan Babu Allamudi 
 
 I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cutting-edge web applications. I thrive on leveraging modern technologies, including **Google Cloud Platform (GCP)**, to create scalable and efficient solutions.
 
