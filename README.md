@@ -19,7 +19,7 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
   ![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
 - **[Portfolio](https://kalyanbabu.vercel.app/)**  
   ![View Portfolio](https://img.shields.io/badge/-View%20Portfolio-ff6f61?style=flat&logo=google-chrome&logoColor=white)
-- **Email**: [allamudikalyanbabu56@gmail.com](mailto:allamudikalyanbabu56@gmail.com)
+
 
 ---
 
