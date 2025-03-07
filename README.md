@@ -69,6 +69,4 @@ I'm a **Fullstack Developer** and **AI Enthusiast** passionate about building cu
 
 ---
 
-## 📚 Let's Collaborate  
 
-I’m open to collaborations, open-source contributions, and tech discussions. Feel free to reach out through any of the links above!
