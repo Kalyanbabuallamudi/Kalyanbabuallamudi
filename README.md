@@ -1,6 +1,6 @@
 # Hi, I'm Kalyan Babu Allamudi! 👋  
 
-I'm a Full-Stack Developer with strong foundations in Data Structures and Cloud Technologies (AWS, GCP). I'm passionate about building seamless and efficient web applications.  
+I'm a MERN Full-Stack Developer with a solid foundation in Data Structures and expertise in Cloud Technologies (AWS, GCP). I am passionate about designing seamless and high-performance web applications 
 
 ---
 
