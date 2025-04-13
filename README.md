@@ -1,7 +1,7 @@
-
 # Hi, I'm Kalyan Babu Allamudi! 👋  
 
-I'm a Full Stack Developer passionate about creating seamless and efficient web applications. 
+I'm a Full Stack Developer with a passion for **AI/ML**, dedicated to building seamless and efficient web applications.   
+
 ---
 
 ## 🚀 About Me  
