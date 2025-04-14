@@ -1,6 +1,4 @@
-# Hi, I'm Kalyan Babu Allamudi! 👋  
 
-I'm a MERN Full-Stack Developer with a solid foundation in Data Structures and Algorithms and expertise in Cloud Technologies (AWS, GCP). I am passionate about designing seamless and high-performance web applications 
 
 ---
 
