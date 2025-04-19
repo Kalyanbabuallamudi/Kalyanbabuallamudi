@@ -5,9 +5,6 @@ I'm a MERN Full-Stack Developer with a solid foundation in Data Structures and A
 ---
 
 ## 🚀 About Me  
-
-- 🔭 I’m currently working on advanced AI and web development projects.  
-- 🌱 I’m constantly learning **MERN Stack**, **Next.js**, and **Cloud Infrastructure**.  
 - 🤝 I’m open to collaborations in **AI/ML**, **Fullstack Development**, and **Open Source** projects.  
 - 🎯 Fun Fact: I believe **AI and Machine Learning** will shape the future of technology, and I’m committed to staying at the forefront of innovation.
 
