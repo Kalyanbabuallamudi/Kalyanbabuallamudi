@@ -1,3 +1,7 @@
+# 👋 Hello, I'm **Kalyan Babu Allamudi**  
+
+-  Passionate about **Data Structures and Algorithms (DSA)**, **System Design**, and **AI/ML**.  
+-  With a strong foundation in **problem-solving**, I aim to build innovative and scalable solutions.  
 
 ---
 
