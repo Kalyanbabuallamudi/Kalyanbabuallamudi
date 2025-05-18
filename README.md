@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Kalyan Babu Allamudi
-- A DSA-skilled, aspiring SDE & passionate about AI/ML.
+- Aspiring SDE & passionate about AI/ML.
 - I love solving problems, building scalable solutions, and exploring innovative technologies.
 ---
 
