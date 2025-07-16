@@ -1,6 +1,9 @@
+## Hi there! I 'm Kalyan Babu Allamudi
+- Aspiring SDE & passionate about AI/ML.
+- I love solving problems, building scalable solutions, and exploring innovative technologies.
+---
 
-
-## 🚀 About Me  
+## About Me  
 - 🤝 I’m open to collaborations in **AI/ML**, **Fullstack Development**, and **Open Source** projects.  
 - 🎯 Fun Fact: I believe **AI and Machine Learning** will shape the future of technology, and I’m committed to staying at the forefront of innovation.
 
