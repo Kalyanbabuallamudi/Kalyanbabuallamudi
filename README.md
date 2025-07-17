@@ -1,4 +1,6 @@
-
+## Hi there! I 'm Kalyan Babu Allamudi
+- Aspiring SDE & passionate about AI/ML.
+- I love solving problems, building scalable solutions, and exploring innovative technologies.
 ---
 
 ## About Me  
